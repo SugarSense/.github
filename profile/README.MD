@@ -17,3 +17,11 @@ Support
 If you have any questions or issues while using SugarSense, our support team is here to help. We offer 24/7 support via email, and our team of diabetes experts is always available to assist you with any concerns you may have.
 
 Thank you for choosing SugarSense! We hope that our tool helps you to better manage your diabetes and live a healthier life.
+
+## Stack Used
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
