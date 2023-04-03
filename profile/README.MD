@@ -1,6 +1,6 @@
 # SugarSense
 
-Welcome to SugarSense!
+Welcome to SugarSense! 👋
 
 SugarSense is a web-based tool designed to help individuals with diabetes easily retrieve and track their pump data. With SugarSense, you can conveniently access and analyze your glucose readings, insulin doses, and other important pump data from a single dashboard.
 
@@ -25,3 +25,11 @@ Thank you for choosing SugarSense! We hope that our tool helps you to better man
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Collaborators
+
+This work has been made with students when we were in a group here is their github :
+
+<a href="https://github.com/SugarSense/SugarSense-Client/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SugarSense/SugarSense-Client" />
+</a>
